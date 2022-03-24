@@ -1,5 +1,5 @@
-Hello.
+Hi There,
 
-This is my first GitHub file. 
+My name is Liam Shropshire-Fanning and this is my first GitHub file. 
 
 It is to demonstrate basic concepts such as branching/pull requests and merges.
