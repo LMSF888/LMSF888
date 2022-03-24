@@ -6,6 +6,6 @@ My name is <b>Liam Shropshire-Fanning</b> and this is my first GitHub file.<br><
 
 It is to demonstrate basic concepts such as branching/pull requests and merges.
 
-This is a HTML enhancement to demonstrate the power of writing feature code which can then be merged into the main branch.
+
 </Body>
 </HTML>
